@@ -1,1 +1,1 @@
-# Graph Calculator
+# Graph-Calculator
